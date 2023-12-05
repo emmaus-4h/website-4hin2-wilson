@@ -43,12 +43,12 @@ main {
   text-align: justify;            /* tekst uitvullen */}
 
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
-  margin: 10px 0px;
+  margin: 15px 0px;
   text-align: center;             /* tekst centreren */
 } 
 
 p {
-  margin: 10px 0px;
+  margin: 15px 0px;
   text-align: justify;            /* tekst links en rechts uitvullen */
 }
 
@@ -122,4 +122,11 @@ nav li a:hover {
 nav li a.active {
     background-color: skyblue;
 }
+
+iframe { display:block;
+              margin:auto;
+             
+             }
+
+p.item-tekst{float:right;}
 
