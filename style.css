@@ -96,11 +96,12 @@ a:hover {
 
 /* Navigatiebalk voor alle pagina's */
 nav ul {
-    list-style-type: none;
+    list-style-type:none ;
     margin: auto;
-    padding: 0;
+    padding: 0px;
     background-color: #5b7195;
-    overflow: hidden;
+    overflow:hidden ;
+  
 }
 
 nav ul li {
@@ -111,8 +112,9 @@ nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 13px 47px;
     text-decoration: none;
+  
 }
 
 nav li a:hover {
