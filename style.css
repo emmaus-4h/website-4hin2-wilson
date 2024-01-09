@@ -69,6 +69,14 @@ img {
   float:right;
   width: 450px;
 }
+item-tekst2 {
+float:none;
+  
+}
+home2{
+font-size: 20em;
+text-align:left;
+}
 
 /* Indeling voor sub pagina */
 
@@ -89,6 +97,7 @@ a {
 }
 
 a:hover {
+  color:#7adcff;
     text-decoration: underline;
 }
 
@@ -112,7 +121,7 @@ nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 13px 47px;
+    padding: 13px 40px;
     text-decoration: none;
   
 }
@@ -131,4 +140,6 @@ iframe { display:block;
              }
 
 p.item-tekst{float:right;}
+
+
 
