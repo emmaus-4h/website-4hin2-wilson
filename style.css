@@ -40,7 +40,8 @@ header, footer {                  /* geldt voor header en footer */
 }
 
 main {                       
-  text-align: justify;            /* tekst uitvullen */}
+  text-align: justify;    
+}                                 /* tekst uitvullen */
 
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 15px 0px;
@@ -65,18 +66,17 @@ img {
   width:250px;
   padding-right: 15px; /* zorgt dat plaatje niet tegen tekst komt */
 }
+
 .item-tekst {
   float:right;
   width: 450px;
 }
+
 item-tekst2 {
 float:none;
   
 }
-home2{
-font-size: 20em;
-text-align:left;
-}
+
 
 /* Indeling voor sub pagina */
 
@@ -86,20 +86,24 @@ h1, h2, h3 {
       color: #42758a;
 }
 
+
 .smalltext {
     text-align: center;
     font-size: 0.7em;
 }
+
 
 a {
     color: #002aff;
     text-decoration: none;
 }
 
+
 a:hover {
-  color:#7adcff;
+  color:#001157;
     text-decoration: underline;
 }
+
 
 /* Opmaak voor sub pagina's */
 
@@ -113,33 +117,46 @@ nav ul {
   
 }
 
+
 nav ul li {
     float: left;
 }
+
 
 nav li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 13px 40px;
+    padding: 13px 42.1px;
     text-decoration: none;
   
 }
 
+
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #009da8;
 }
 
-nav li a.active {
+
+nav li a:active {
     background-color: skyblue;
 }
 
-iframe { display:block;
-              margin:auto;
-             
-             }
+
+iframe { 
+  display:block;
+   margin:auto;
+}
 
 p.item-tekst{float:right;}
+
+
+item2 {
+  width: 200px;
+  height:700px;
+  
+}
+
 
 
 
