@@ -151,9 +151,9 @@ iframe {
 p.item-tekst{float:right;}
 
 
-item2 {
-  width: 200px;
-  height:700px;
+.item-plaat {
+  width: 700px;
+  height: 400px;
   
 }
 
