@@ -137,9 +137,8 @@ nav li a:hover {
     background-color: #009da8;
 }
 
-
-nav li a:active {
-    background-color: skyblue;
+.active {
+  background-color: #3dabff;
 }
 
 
@@ -156,6 +155,7 @@ p.item-tekst{float:right;}
   height: 400px;
   
 }
+
 
 
 
