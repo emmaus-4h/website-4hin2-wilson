@@ -94,13 +94,13 @@ h1, h2, h3 {
 
 
 a {
-    color: #002aff;
+    color: #ffffff;
     text-decoration: none;
 }
 
 
 a:hover {
-  color:#001157;
+  color:#86dafd;
     text-decoration: underline;
 }
 
@@ -134,11 +134,11 @@ nav li a {
 
 
 nav li a:hover {
-    background-color: #009da8;
+    background-color: #3b8cc9;
 }
 
 .active {
-  background-color: #3dabff;
+  background-color: #4ea0df;
 }
 
 
